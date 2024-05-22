@@ -1,0 +1,70 @@
+#hh
+{
+background-color:cyan; 
+height:70px;
+}
+
+
+.fade-in-image:hover {
+  opacity: 100%;
+  transition: opacity 1s;
+}
+#shubham{
+background-color:white;
+height:40px;
+width:300px;`
+border-radius:3px;
+color:black;
+font-weight:600;
+transition:0.5s ;
+}
+
+#shubham:hover{
+background-color:black;
+height:40px;
+width:300px;`
+border-radius:3px;
+color:white;
+}
+#f{
+background-color:white;
+height:40px;
+width:300px;`
+border-radius:3px;
+color:black;
+font-weight:600;
+transition:0.7s ;
+}
+
+#f:hover{
+background-color:black;
+height:40px;
+width:300px;`
+border-radius:3px;
+color:white;
+}
+#dd{
+font-size:18px;
+text-align:justify;
+margin-left:35px;
+}
+
+
+#nav1122{
+	background-color:black;
+	
+}
+#s{
+background-color:black;
+
+color:white;
+font-weight:600;
+transition:0.5s ;
+}
+
+#s:hover{
+background-color:black;
+
+
+color:black;
+}
